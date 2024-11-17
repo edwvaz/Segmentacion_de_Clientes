@@ -33,7 +33,7 @@ Identificar grupos de clientes (clusters) con características similares para pe
 
 ## Dataset
 
-Este dataset contiene 17 variables de comportamiento y utilizaremos PCA (Análisis de características principales) para designar un cluster a cada cliente.
+Este dataset contiene cerca de 9000 clientes y 17 variables de comportamiento de cada uno de ellos. Utilizaremos PCA (Análisis de características principales) para designar un cluster a cada cliente.
 
 - **CUSTID**: Identificación del titular de la tarjeta de crédito (Categorical).
 - **BALANCE**: Monto del saldo restante en su cuenta para realizar compras.
